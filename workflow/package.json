@@ -1,0 +1,15 @@
+{
+  "name": "workflow",
+  "version": "0.0.1",
+  "description": "a project for workflow",
+  "main": "index.js",builds
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "keywords": [
+    "workflow"
+  ],
+  "author": "John Markham",
+  "license": "ISC"
+}
